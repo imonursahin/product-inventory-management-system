@@ -55,7 +55,7 @@ if(isset($_GET['error'])) {
       </form>
 
 <div>
-<p style="float:left;border:1px solid black;margin:5px"><b>Tedarikçi Bilgileri ;</b> <br> <b>Kullanıcı ID:</b> 111111 <br> <b>Şifre:</b> 123456</p>
+<p style="float:left;border:1px solid black;margin:5px"><b>Giriş Bilgileri ;</b> <br> <b>Kullanıcı ID:</b> 111111 <br> <b>Şifre:</b> 123456</p>
 </div>
 
 
